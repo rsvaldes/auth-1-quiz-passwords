@@ -5,28 +5,28 @@
 
 > What is identification?
 
-<!-- Answer here -->
+A way of telling one user from another.
 
 > What is authentication?
 
-<!-- Answer here -->
+A way to prove the user is who they say they are.
 
 > What is authorization?
 
-<!-- Answer here -->
+Once a user is identified, controlling what they have access to.
 
 > What is your opinion on how identification and authentication are currently implemented in the industry?
 
-<!-- Answer here -->
+Poorly
 
 > What is your password?
 
-<!-- Answer here -->
+mypasswordistotallynoneofyourbusinesssodontask
 
 > If a customer asked for a set of rules for appropriate passwords, what advice would you give them?
 
-<!-- Answer here -->
+Long and easy to remember.
 
 > What advice would you give loved ones for their own passwords?
 
-<!-- Answer here -->
+Long and easy to remember.
